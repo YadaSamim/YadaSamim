@@ -1,4 +1,4 @@
-- 👋 Hi there, welcome to my GitHub profile @YadaSamim.
+- 👋 Hi there, welcome to my GitHub profile @YaldaSamim.
 - 👀 I’m interested in creating websites, presenting Computing Platforms and Art.
 - 🌱 I’m currently learning how to write code well at Powercoders coding academy.
 - 💞️ I’m looking to collaborate on achieving any organization project goals by applying my capabilities.

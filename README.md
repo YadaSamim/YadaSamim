@@ -5,6 +5,10 @@
 - 📫 How to reach me:  yalda.samim@powercoders.org, [LinkedIn@Yalda Samim](https://www.linkedin.com/in/yaldasamim/)
 - ✨ I'm a good listener and I like experimenting with new Technology and I won't mind working in a group to build any small projects. 
 
+
+
+
+ <img src="https://github-readme-stats.vercel.app/api?username=y-samim&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">  
 <!---
 YadaSamim/YadaSamim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

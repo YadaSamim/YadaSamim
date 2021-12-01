@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning how to write code well at Powercoders coding academy.
 - 💞️ I’m looking to collaborate on achieving any organization project goals by applying my capabilities.
 - 📫 How to reach me:  yalda.samim@powercoders.org, [LinkedIn@Yalda Samim](https://www.linkedin.com/in/yaldasamim/)
-- ✨ I'm a good listener and I like experimenting with new Technology and I won't mind working in a group to build any small projects. 
+- ✨ I'm a motivative learner and I like experimenting with new Technology and I won't mind working in a group to build any small projects. 
 
 
 
